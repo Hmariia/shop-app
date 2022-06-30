@@ -1,0 +1,14 @@
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+h3 {
+  font-family: Brush Script MT, Brush Script Std, cursive;
+    font-weight: 100;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}

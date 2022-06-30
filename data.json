@@ -1,0 +1,64 @@
+{ 
+  "items": [
+    {
+      "id": "1",
+      "name": "NEULOTTU LAUKKU",
+      "price": "57 €",
+      "image": "item1.jpg"
+    },
+    {
+      "id": "2",
+      "name": "NEULOTTU LAUKKU",
+      "price": "54 €",
+      "image": "item2.jpg"
+    },
+    {
+      "id": "3",
+      "name": "NEULOTTU LAUKKU",
+      "price": "67 €",
+      "image": "item3.jpg"
+    },
+    {
+      "id": "4",
+      "name": "NEULOTTU LAUKKU",
+      "price": "57€",
+      "image": "item4.jpg"
+    },
+    {
+      "id": "5",
+      "name": "NEULOTTU LAUKKU",
+      "price": "23€",
+      "image": "item1.jpg"
+    },
+    {
+      "id": "6",
+      "name": "NEULOTTU LAUKKU",
+      "price": "42€",
+      "image": "item2.jpg"
+    },
+    {
+      "id": "7",
+      "name": "NEULOTTU LAUKKU",
+      "price": "37€",
+      "image": "item3.jpg"
+    },
+    {
+      "id": "8",
+      "name": "NEULOTTU LAUKKU",
+      "price": "27€",
+      "image": "item4.jpg"
+    },
+    {
+      "id": "9",
+      "name": "NEULOTTU LAUKKU",
+      "price": "36€",
+      "image": "item1.jpg"
+    },
+    {
+      "id": "10",
+      "name": "NEULOTTU LAUKKU",
+      "price": "45€",
+      "image": "item4.jpg"
+    }
+  ]
+}
